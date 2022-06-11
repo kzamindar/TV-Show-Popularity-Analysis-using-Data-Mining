@@ -1,1 +1,2 @@
 # TV-Show-Popularity-Analysis-using-Data-Mining
+This project utilizes data mining techniques to perform extraction, transformation and loading of data. It uses advanced python methods and libraries to perform several machine learning and deep learning tasks. It's main purpose is to perform analysis on TV shows and filter out most rated and popular TV show according to platforms like IMDb and Rotten Tomatoes and show the result in the form of several plots and graphs.
